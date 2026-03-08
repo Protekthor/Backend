@@ -1,7 +1,7 @@
 const Sequelize =require('sequelize');
 
-module.exports = new Sequelize('cotizaciones','root','',{
-  host:'localhost',
+module.exports = new Sequelize('bykviichr7dxxkzlseic','ubh06i6chfomkvsg','BJu5uALAnpwJPER5mMYk',{
+  host:'bykviichr7dxxkzlseic-mysql.services.clever-cloud.com',
   port: '3306',
   dialect:'mysql',
   pool:{
